@@ -1,0 +1,5 @@
+Credentials cache: API:73BBC35D-1253-4236-BDCD-7842D76290F5
+        Principal: ttranche@42.FR
+
+  Issued                Expires               Principal
+Aug  3 11:26:51 2020  Aug 10 11:26:37 2020  krbtgt/42.FR@42.FR
